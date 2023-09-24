@@ -13,4 +13,6 @@ def get_sum(a, b):
     return sum_number
 
 
+print("This is new function!")
+
 print(get_sum(1, -5))
